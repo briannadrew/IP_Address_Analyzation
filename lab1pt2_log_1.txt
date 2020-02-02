@@ -1,0 +1,56 @@
+Script started on Wed 29 Jan 2020 04:43:49 PM EST
+]0;briannadrew@loki:~/lab1[?1034h[briannadrew@loki lab1]$ ./lab2[K1_script_2.sh /home/COIS/3380/secure
+
+Top Ten
+-------
+  21706 58.242.83.7
+   3648 61.177.172.24
+    945 118.212.135.3
+    682 202.112.23.245
+    680 61.177.172.59
+    596 187.33.2.56
+    517 111.160.87.162
+    400 104.237.202.199
+    323 108.170.41.186
+    275 91.236.116.78
+
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   245  100   245    0     0   3519      0 --:--:-- --:--:-- --:--:--  3602
+
+{
+  "ip": "58.242.83.7",
+  "city": "Changzhou",
+  "region": "Jiangsu",
+  "country": "CN",
+  "loc": "31.7736,119.9540",
+  "org": "AS4837 CHINA UNICOM China169 Backbone",
+  "timezone": "Asia/Shanghai",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
+
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   232  100   232    0     0   2360      0 --:--:-- --:--:-- --:--:--  2391
+
+{
+  "ip": "61.177.172.24",
+  "city": "Rucheng",
+  "region": "Jiangsu",
+  "country": "CN",
+  "loc": "32.3883,120.5553",
+  "org": "AS4134 CHINANET-BACKBONE",
+  "timezone": "Asia/Shanghai",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
+/home/briannadrew/lab1
+-rw-rw-r--. 1 briannadrew briannadrew 245 Jan 29 16:44 58.242.83.7
+-rw-rw-r--. 1 briannadrew briannadrew 232 Jan 29 16:44 61.177.172.24
+]0;briannadrew@loki:~/lab1[briannadrew@loki lab1]$ exit
+exit
+
+Script done on Wed 29 Jan 2020 04:44:41 PM EST
